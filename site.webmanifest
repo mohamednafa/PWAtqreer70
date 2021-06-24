@@ -1,7 +1,7 @@
    {
     "name": "تقرير 70",
     "short_name": "تقرير 70",
-    "start_url": "/",
+    "start_url": "\/",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#3740ff",
