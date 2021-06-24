@@ -25,5 +25,6 @@
     "description": "تقرير 70",
     "lang": "ar",
     "categories": ["education", "news"],
-  "start_url": "/"
+    "orientation": "portrait",
+  "start_url": "https://www.tqreer70.com"
 }
