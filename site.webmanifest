@@ -1,11 +1,9 @@
+
+
+
    {
     "name": "تقرير 70",
     "short_name": "تقرير 70",
-    "start_url": "\/",
-    "display": "standalone",
-    "orientation": "portrait",
-    "background_color": "#3740ff",
-    "theme_color": "#ffffff",
     "icons": [
         {
             "src": "https://1.bp.blogspot.com/---3zya828xw/YNM-hK0jF7I/AAAAAAAAB1g/DJZAVGRCLPgtwsIX0diKyC7i6jAsZLcWwCLcBGAsYHQ/s0/android-chrome-192x192.png",
@@ -20,7 +18,9 @@
             "purpose": "any maskable"
         }
     ],
-    "description": "تقرير 70",
-    
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
     "prefer_related_applications": false,
+  "start_url": "https://www.tqreer70.com"
 }
