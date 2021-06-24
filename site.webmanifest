@@ -23,9 +23,6 @@
     "description": "تقرير 70",
     "lang": "en",
     "categories": ["education", "news"],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone",
     "scope": "/",
     "prefer_related_applications": false,
 }
