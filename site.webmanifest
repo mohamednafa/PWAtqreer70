@@ -23,6 +23,5 @@
     "description": "تقرير 70",
     "lang": "ar",
     "categories": ["education", "news"],
-    "scope": "/",
     "prefer_related_applications": false,
 }
