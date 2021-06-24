@@ -22,5 +22,8 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
+    "description": "تقرير 70",
+    "lang": "ar",
+    "categories": ["education", "news"],
   "start_url": "/"
 }
